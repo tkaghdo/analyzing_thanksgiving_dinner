@@ -36,34 +36,37 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 
 - Age analysis
 |Age range| Number of people|
-|---------|-----------------|
-45 - 59    |269
-60+        |258
-30 - 44    |235
-18 - 29    |185
+|---------|----------------:|
+|45 - 59    |269|
+|60+        |258|
+|30 - 44    |235|
+|18 - 29    |185|
 
 - Income analysis
 |Income range| Number of people|
-|------------|-----------------|
-$25,000 to $49,999      |166
-$50,000 to $74,999      |127
-$75,000 to $99,999      |127
-Prefer not to answer    |118
-$100,000 to $124,999    |109
-$200,000 and up          |76
-$10,000 to $24,999       |60
-$0 to $9,999             |52
-$125,000 to $149,999     |48
-$150,000 to $174,999     |38
-$175,000 to $199,999     |26
+|------------|-----------------:|
+|$25,000 to $49,999      |166|
+|$50,000 to $74,999      |127|
+|$75,000 to $99,999      |127|
+|Prefer not to answer    |118|
+|$100,000 to $124,999    |109|
+|$200,000 and up          |76|
+|$10,000 to $24,999       |60|
+|$0 to $9,999             |52|
+|$125,000 to $149,999     |48|
+|$150,000 to $174,999     |38|
+|$175,000 to $199,999     |26|
 
 - Income less than 150000. How far will you travel for Thanksgiving?
-Thanksgiving is happening at my home--I won't travel at all                         281
-Thanksgiving is local--it will take place in the town I live in                     203
-Thanksgiving is out of town but not too far--it's a drive of a few hours or less    150
-Thanksgiving is out of town and far away--I have to drive several hours or fly       55
+|Where?| Number of people|
+|------|----------------:|
+|Thanksgiving is happening at my home--I won't travel at all                         |281|
+|Thanksgiving is local--it will take place in the town I live in                     |203|
+|Thanksgiving is out of town but not too far--it's a drive of a few hours or less    |150|
+|Thanksgiving is out of town and far away--I have to drive several hours or fly       |55|
 
 - Income over  150000. How far will you travel for Thanksgiving?
+
 Thanksgiving is happening at my home--I won't travel at all                         49
 Thanksgiving is local--it will take place in the town I live in                     25
 Thanksgiving is out of town but not too far--it's a drive of a few hours or less    16
