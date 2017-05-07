@@ -28,7 +28,7 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 
 - What kind of pies people eat?
 |Pie Type   |   Number of people|
-|-----------|-------------------|
+|-----------|-------------------:|
 |Apple      |514|
 |Pumpkin    |729|
 |Pecan      |342|
