@@ -35,6 +35,7 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 |Pecan      |342|
 
 - Age analysis
+
 |Age range| Number of people|
 |---------|----------------:|
 |45 - 59    |269|
@@ -43,6 +44,7 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 |18 - 29    |185|
 
 - Income analysis
+
 |Income range| Number of people|
 |------------|-----------------:|
 |$25,000 to $49,999      |166|
@@ -58,6 +60,7 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 |$175,000 to $199,999     |26|
 
 - Income less than 150000. How far will you travel for Thanksgiving?
+
 |Where?                                                                              | Number of people|
 |------------------------------------------------------------------------------------|-----------------:|
 |Thanksgiving is happening at my home--I won't travel at all                         |281|
