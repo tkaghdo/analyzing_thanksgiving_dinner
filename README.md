@@ -13,7 +13,7 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 - for the people who celebrate Thanksgiving. Below is what typically served as a main dish
 
 |Main Dish|             Number of people|
-----------|-----------------------------:|
+|---------|-----------------------------:|
 |Turkey                    |859|
 |Other (please specify)     |35|
 |Ham/Pork                   |29|
@@ -27,6 +27,7 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 12 out of 20 have grave with their Tofurkey
 
 - What kind of pies people eat?
+
 |Pie Type   |   Number of people|
 |-----------|-------------------:|
 |Apple      |514|
