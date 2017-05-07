@@ -58,8 +58,8 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 |$175,000 to $199,999     |26|
 
 - Income less than 150000. How far will you travel for Thanksgiving?
-|Where?| Number of people|                                                                |
-|------------------------------------------------------------------------------------|---:|
+|Where?                                                                              | Number of people|
+|------------------------------------------------------------------------------------|-----------------:|
 |Thanksgiving is happening at my home--I won't travel at all                         |281|
 |Thanksgiving is local--it will take place in the town I live in                     |203|
 |Thanksgiving is out of town but not too far--it's a drive of a few hours or less    |150|
