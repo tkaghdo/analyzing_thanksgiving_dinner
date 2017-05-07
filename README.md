@@ -11,16 +11,17 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 - there are 1058 rows in total. from them 980 people celebrates Thanksgiving and 78 don't
 
 - for the people who celebrate Thanksgiving. Below is what typically served as a main dish
+
 |Main Dish|             Number of people|
-----------|-----------------------------|
-Turkey                    859
-Other (please specify)     35
-Ham/Pork                   29
-Tofurkey                   20
-Chicken                    12
-Roast beef                 11
-I don't know                5
-Turducken                   3
+----------|-----------------------------:|
+|Turkey                    |859|
+|Other (please specify)     |35|
+|Ham/Pork                   |29|
+|Tofurkey                   |20|
+|Chicken                    |12|
+|Roast beef                 |11|
+|I don't know                |5|
+|Turducken                   |3|
 
 - How many people have gravy with the Tofurkey?
 12 out of 20 have grave with their Tofurkey
