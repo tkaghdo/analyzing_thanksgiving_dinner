@@ -69,6 +69,7 @@ https://github.com/fivethirtyeight/data/blob/master/thanksgiving-2015/thanksgivi
 |Thanksgiving is out of town and far away--I have to drive several hours or fly       |55|
 
 - Income over  150000. How far will you travel for Thanksgiving?
+
 |Where?                                                                            | Number of people|
 |----------------------------------------------------------------------------------|----------------:|
 |Thanksgiving is happening at my home--I won't travel at all                         |49|
